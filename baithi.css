@@ -1,0 +1,45 @@
+.header{
+	border-top: 2px solid;
+	border-right: 2px solid; 
+	border-left: 2px solid;
+	display: inline-block;
+	width: 100%;
+}
+.logo{
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.banner{
+	float: left;
+}
+.slogan{
+}
+.body{
+	border: 2px solid;
+	width: 100%;
+}
+.footer{
+	border-top: 0px;
+	border: 2px solid;
+	width: 100%;
+}
+.form-group{
+	margin: 15px;
+}
+label{
+	display: inline-block;
+	width: 100px;
+}
+.form-control{
+	border-radius: 3px;
+}
+.danger-text{
+	color: red;
+}
+.succes-text{
+	color: green;
+}
+.hidden-text{
+	display: none;
+} 
